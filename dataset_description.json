@@ -1,0 +1,15 @@
+{
+    "Name": "Resting state with closed eyes for patients with depression and healthy participants",
+    "License": "PD",
+    "Authors": [
+        "Bezmaternykh DD",
+        "Melnikov ME",
+        "Savelov AA",
+        "Petrovskii ED"		
+    ],
+    "Acknowledgements": "Mark Shtark, Kira Natarova.",
+	"Funding": [
+        "The study was supported by Russian Science Foundation grant № 16-15-00183."
+    ],
+    "BIDSVersion": "1.0.2"
+}
