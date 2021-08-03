@@ -54,7 +54,7 @@
     "Description": "The Hospital Anxiety and Depression Scale - depression",
     "Units": "scores"
   }, 
-   "MC–SDS": {
+   "MC-SDS": {
     "Description": "Marlowe–Crowne Social Desirability Scale",
     "Units": "scores"
   },
@@ -78,7 +78,7 @@
     "Description": "The ruminative response scale - reflection",
     "Units": "scores"
   },
-  "RRS-broading": {
+  "RRS-brooding": {
     "Description": "The ruminative response scale - brooding",
     "Units": "scores"
   },  
