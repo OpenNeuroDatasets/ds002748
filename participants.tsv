@@ -1,4 +1,4 @@
-participant_id	age	gender	group	IQ_Raven	ICD-10	MADRS	Zung_SDS	BDI	HADS-anx	HADS-depr	MC–SDS	TAS-26	ECR-avoid	ECR-anx	RRS-sum	RRS-reflection	RRS-brooding	RRS-depr	Edinburgh
+participant_id	age	gender	group	IQ_Raven	ICD-10	MADRS	Zung_SDS	BDI	HADS-anx	HADS-depr	MC-SDS	TAS-26	ECR-avoid	ECR-anx	RRS-sum	RRS-reflection	RRS-brooding	RRS-depr	Edinburgh
 sub-01	39	m	depr	113	F32.0	n/a	43	17	n/a	n/a	9	81	66	60	53	12	14	27	n/a
 sub-02	50	m	depr	80	F32.0	n/a	47	10	n/a	n/a	15	54	62	78	59	14	12	33	n/a
 sub-03	47	f	depr	87	F32.0	n/a	44	19	n/a	n/a	15	80	42	54	47	11	9	27	n/a
